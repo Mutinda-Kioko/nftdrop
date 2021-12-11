@@ -301,13 +301,6 @@ const CandyMachine = ({walletAddress}) => {
         goLiveData,
         goLiveDateTimeString,
       });
-      console.log({
-        itemsAvailable,
-        itemsRedeemed,
-        itemsRemaining,
-        goLiveData,
-        goLiveDateTimeString,
-      });
       setIsLoadingMints(true);
       const data = await fetchHashTable(
         process.env.REACT_APP_CANDY_MACHINE_ID,
