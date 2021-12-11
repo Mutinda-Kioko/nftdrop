@@ -1,0 +1,19 @@
+{
+    "name": "REALISTIC VIV",
+    "symbol": "RAV",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "FMkBuHBfmvkWPWS2krPRG61D61xBirYfkB6kyZHr2b7w",
+          "share": 100
+        }
+      ]
+    }
+  }
